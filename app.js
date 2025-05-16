@@ -1,5 +1,5 @@
 //cookie and sesseion er maddome authentication and authorization kore..
-//1st) npm i jsonwebtoken and npm i bcrypt  install korte hobe
+//1st) npm i jsonwebtoken and npm i bcryptjs  install korte hobe
 //2nd) cookie set korte hobe.. package.json e (main e index.js er jaygay app.js likte hobe).. app.js nam e create korte hobe
 
 // we can read cookie form brouser through "req.cookie()".. first add"npm i cookie-parser".. then require this and app.use(cookieParser())
